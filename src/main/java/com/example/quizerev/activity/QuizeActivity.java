@@ -60,7 +60,7 @@ public class QuizeActivity extends AppCompatActivity {
                         if (radiogroup_quiz.getCheckedRadioButtonId() == R.id.radio_answer1) {
                             score++;
                         }
-                        
+
 
                     } else {
                         //For dynamique App
