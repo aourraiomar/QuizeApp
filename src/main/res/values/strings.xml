@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizeRev</string>
+    <string name="login_editlog_hint">Login</string>
+    <string name="login_editpassword_hint">Password</string>
+    <string name="login_txtregister_text">Not registered ?Sign in here</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_api_key">AIzaSyAuQqXtJbLt8E7mSZBpCqbUPJvs9pEUysY</string>
+</resources>

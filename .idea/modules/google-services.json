@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312638638356",
+    "firebase_url": "https://quizpro-4ed4b.firebaseio.com",
+    "project_id": "quizpro-4ed4b",
+    "storage_bucket": "quizpro-4ed4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312638638356:android:5ef9d2fee5e6c4bb8d5a01",
+        "android_client_info": {
+          "package_name": "com.example.quizerev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312638638356-p2hsss2k5nj6rkdg7k4u6dss0c0lv6hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizerev",
+            "certificate_hash": "44dc88a03ac01e78eb06b8ad8fbc36b368742bb2"
+          }
+        },
+        {
+          "client_id": "312638638356-4e7df77p49tr15im9jv4pvkhi067s1f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQqXtJbLt8E7mSZBpCqbUPJvs9pEUysY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312638638356-4e7df77p49tr15im9jv4pvkhi067s1f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
